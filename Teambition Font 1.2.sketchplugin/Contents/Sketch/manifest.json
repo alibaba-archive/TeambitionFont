@@ -1,0 +1,434 @@
+{
+	"name" : " → Teambition Font →",
+	"identifier" : "com.teambition.font",
+	"version" : "1.0.2",
+	"description" : "Pretty much the smallest example Sketch Plugin you could have.",
+	"authorEmail" : "luxu@invo.design",
+	"author" : "luxu",
+	"commands" : [
+		{
+			"script" : "script.js",
+			"handler" : "mactype1",
+			"shortcut" : "ctrl shift 1",
+			"name" : "一级标题",
+			"identifier" : "com.ios.title1"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "mactype2",
+			"shortcut" : "ctrl shift 2",
+			"name" : "二级标题",
+			"identifier" : "com.ios.title2"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "mactype3",
+			"shortcut" : "ctrl shift 3",
+			"name" : "二级标题（绿）",
+			"identifier" : "com.ios.title3"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "mactype4",
+			"shortcut" : "ctrl shift 4",
+			"name" : "二级标题（橙）",
+			"identifier" : "com.ios.title4"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "mactype5",
+			"shortcut" : "ctrl shift 5",
+			"name" : "三级标题",
+			"identifier" : "com.ios.title5"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "mactype6",
+			"shortcut" : "ctrl shift 6",
+			"name" : "四级标题",
+			"identifier" : "com.ios.title6"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "mactype7",
+			"shortcut" : "ctrl shift 7",
+			"name" : "默认",
+			"identifier" : "com.ios.title7"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "mactype8",
+			"shortcut" : "ctrl shift 8",
+			"name" : "默认（蓝）",
+			"identifier" : "com.ios.title8"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "mactype9",
+			"shortcut" : "ctrl shift 9",
+			"name" : "二类默认",
+			"identifier" : "com.ios.title9"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "mactype10",
+			"shortcut" : "ctrl shift 0",
+			"name" : "二类默认（橙）",
+			"identifier" : "com.ios.title10"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "mactype11",
+			"shortcut" : "ctrl shift -",
+			"name" : "辅助",
+			"identifier" : "com.ios.title11"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "mactype12",
+			"shortcut" : "ctrl shift =",
+			"name" : "辅助（蓝）",
+			"identifier" : "com.ios.title12"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "mactype13",
+			"shortcut" : "ctrl shift q",
+			"name" : "备注",
+			"identifier" : "com.ios.title13"
+		},
+
+
+
+
+
+		{
+			"script" : "script.js",
+			"handler" : "webtype1",
+			"shortcut" : "ctrl shift t",
+			"name" : "一级标题",
+			"identifier" : "com.web.web1"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "webtype2",
+			"shortcut" : "ctrl shift y",
+			"name" : "二级标题",
+			"identifier" : "com.web.web2"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "webtype3",
+			"shortcut" : "ctrl shift u",
+			"name" : "三级标题",
+			"identifier" : "com.web.web3"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "webtype4",
+			"shortcut" : "ctrl shift i",
+			"name" : "默认",
+			"identifier" : "com.web.web4"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "webtype5",
+			"shortcut" : "ctrl shift o",
+			"name" : "默认加粗",
+			"identifier" : "com.web.web5"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "webtype6",
+			"shortcut" : "ctrl shift p",
+			"name" : "辅助",
+			"identifier" : "com.web.web6"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "webtype7",
+			"shortcut" : "ctrl shift [",
+			"name" : "链接",
+			"identifier" : "com.web.web7"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "webtype8",
+			"shortcut" : "ctrl shift ]",
+			"name" : "失效",
+			"identifier" : "com.web.web8"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "webtype9",
+			"shortcut" : "ctrl shift a",
+			"name" : "占位",
+			"identifier" : "com.web.web9"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "webtype10",
+			"shortcut" : "ctrl shift s",
+			"name" : "一级警示",
+			"identifier" : "com.web.web10"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "webtype11",
+			"shortcut" : "ctrl shift d",
+			"name" : "二级警示",
+			"identifier" : "com.web.web11"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "webtype12",
+			"shortcut" : "ctrl shift f",
+			"name" : "角标",
+			"identifier" : "com.web.web12"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "webtype13",
+			"shortcut" : "ctrl shift g",
+			"name" : "标签",
+			"identifier" : "com.web.web13"
+		},
+
+
+
+
+
+
+
+
+		{
+			"script" : "script.js",
+			"handler" : "androidtype1",
+			"shortcut" : "ctrl shift h",
+			"name" : "一级标题",
+			"identifier" : "com.android.title1"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "androidtype2",
+			"shortcut" : "ctrl shift j",
+			"name" : "一级标题（蓝）",
+			"identifier" : "com.android.title2"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "androidtype3",
+			"shortcut" : "ctrl shift k",
+			"name" : "二级标题",
+			"identifier" : "com.android.title3"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "androidtype4",
+			"shortcut" : "ctrl shift l",
+			"name" : "三级标题",
+			"identifier" : "com.android.title4"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "androidtype5",
+			"shortcut" : "ctrl shift ;",
+			"name" : "三级标题（绿）",
+			"identifier" : "com.android.title5"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "androidtype6",
+			"shortcut" : "ctrl shift '",
+			"name" : "三级标题（橙）",
+			"identifier" : "com.android.title6"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "androidtype7",
+			"shortcut" : "ctrl shift z",
+			"name" : "四级标题",
+			"identifier" : "com.android.title7"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "androidtype8",
+			"shortcut" : "ctrl shift x",
+			"name" : "四级标题（灰）",
+			"identifier" : "com.android.title8"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "androidtype9",
+			"shortcut" : "ctrl shift c",
+			"name" : "四级标题（蓝）",
+			"identifier" : "com.android.title9"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "androidtype10",
+			"shortcut" : "ctrl shift v",
+			"name" : "内容（灰）",
+			"identifier" : "com.android.title10"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "androidtype11",
+			"shortcut" : "ctrl shift b",
+			"name" : "四级标题（红）",
+			"identifier" : "com.android.title11"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "androidtype12",
+			"shortcut" : "ctrl shift n",
+			"name" : "内容（占位）",
+			"identifier" : "com.android.title12"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "androidtype13",
+			"shortcut" : "ctrl shift m",
+			"name" : "内容（Toast）",
+			"identifier" : "com.android.title13"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "androidtype14",
+			"shortcut" : "ctrl shift ,",
+			"name" : "五级标题（正文）",
+			"identifier" : "com.android.title14"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "androidtype15",
+			"shortcut" : "ctrl shift .",
+			"name" : "正文",
+			"identifier" : "com.android.title15"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "androidtype16",
+			"shortcut" : "ctrl shift /",
+			"name" : "副标题",
+			"identifier" : "com.android.title16"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "androidtype17",
+			"shortcut" : "ctrl cmd j",
+			"name" : "正文（角标）",
+			"identifier" : "com.android.title17"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "androidtype18",
+			"shortcut" : "ctrl cmd k",
+			"name" : "正文（蓝）",
+			"identifier" : "com.android.title18"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "androidtype19",
+			"shortcut" : "ctrl cmd l",
+			"name" : "正文（红）",
+			"identifier" : "com.android.title19"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "androidtype20",
+			"shortcut" : "ctrl cmd ;",
+			"name" : "正文（橙）",
+			"identifier" : "com.android.title20"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "androidtype21",
+			"shortcut" : "ctrl cmd '",
+			"name" : "辅助（注释）",
+			"identifier" : "com.android.title21"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "androidtype22",
+			"shortcut" : "ctrl cmd z",
+			"name" : "辅助（期日）",
+			"identifier" : "com.android.title22"
+		},
+		{
+			"script" : "script.js",
+			"handler" : "androidtype23",
+			"shortcut" : "ctrl cmd x",
+			"name" : "辅助（蓝）",
+			"identifier" : "com.android.title23"
+		},
+	],
+	"menu": {
+		"items": [
+			{
+				"title": "Web",
+				"items": [
+					"com.web.web1",
+					"com.web.web2",
+					"com.web.web3",
+					"com.web.web4",
+					"com.web.web5",
+					"com.web.web6",
+					"com.web.web7",
+					"com.web.web8",
+					"com.web.web9",
+					"com.web.web10",
+					"com.web.web11",
+					"com.web.web12",
+					"com.web.web13"
+				]
+			},
+			{
+				"title": "iOS",
+				"items": [
+					"com.ios.title1",
+					"com.ios.title2",
+					"com.ios.title3",
+					"com.ios.title4",
+					"com.ios.title5",
+					"com.ios.title6",
+					"com.ios.title7",
+					"com.ios.title8",
+					"com.ios.title9",
+					"com.ios.title10",
+					"com.ios.title11",
+					"com.ios.title12",
+					"com.ios.title13"
+				]
+			},
+			{
+				"title": "Android",
+				"items": [
+					"com.android.title1",
+					"com.android.title2",
+					"com.android.title3",
+					"com.android.title4",
+					"com.android.title5",
+					"com.android.title6",
+					"com.android.title7",
+					"com.android.title8",
+					"com.android.title9",
+					"com.android.title10",
+					"com.android.title11",
+					"com.android.title12",
+					"com.android.title13",
+					"com.android.title14",
+					"com.android.title15",
+					"com.android.title16",
+					"com.android.title17",
+					"com.android.title18",
+					"com.android.title19",
+					"com.android.title20",
+					"com.android.title21",
+					"com.android.title22",
+				]
+			},
+
+		]
+	}
+}
